@@ -1,4 +1,4 @@
-import rankingHeroes from './app.js';
+import rankingHeroes from './app';
 
 const expected = [
   { name: 'маг', health: 100 },
